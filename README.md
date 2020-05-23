@@ -21,5 +21,5 @@ This is a [userstyle](https://userstyles.org/) that changes the github diff view
 [![image](https://img.shields.io/badge/Install-Stylus%20Firefox%20Extension-116b59.svg?longCache=true&amp;style=for-the-badge)](https://addons.mozilla.org/en-GB/firefox/addon/styl-us/)
 
 ##### Step 2
-[![image](https://img.shields.io/badge/Install/Update%20directly%20with-Stylus-116b59.svg?longCache=true&amp;style=for-the-badge)](https://raw.githubusercontent.com/DarkThemeHub/GithubDarkTheme/master/Generated/github.user.styl)
+[![image](https://img.shields.io/badge/Install/Update%20directly%20with-Stylus-116b59.svg?longCache=true&amp;style=for-the-badge)](https://raw.githubusercontent.com/Kleptine/github-compact-style/edit/master/github-compact-style.user.styl)
 
