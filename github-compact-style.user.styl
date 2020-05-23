@@ -1,0 +1,50 @@
+@-moz-document regexp("https://github.com/.*/compare/.*"), regexp("https://github.com/.*/pull/.*/files.*") {
+.diff-table tbody tr td {
+    line-height: 7px;
+}
+.diff-table tbody tr td.empty-cell {
+    background-color: #EEE !important;
+}
+.diff-table tbody tr td.blob-num-addition {
+    background-color: #fff !important;
+}
+.diff-table tbody tr td.blob-code-hunk {
+    background-color: #eae8e8 !important;
+    border: solid white;
+    box-shadow: inset 0 0 5px rgba(0, 0, 0, .2);
+}
+.diff-table tbody tr td button {
+    height: unset;
+    line-height: inherit;
+}
+
+.file-header {
+    margin: 0;
+    padding: 0;
+}
+.file:not(open) {
+    border: none;
+    border-bottom: 1px solid #9b9b9b;
+    margin-bottom: 0 !important;
+}
+.file-info {
+    line-height: inherit;
+}
+
+.diffstat {
+    display: inline-block;
+    width: 110px;
+}
+
+.diffstat-block-added,
+.diffstat-block-neutral,
+.diffstat-block-deleted {
+    float: right;
+    margin-top: 7px;
+    padding-bottom: 5px;
+}
+
+table.diff-table {
+    border-spacing: 1px 1px;
+}
+}
