@@ -19,3 +19,7 @@ Before             |  After
 Before             |  After
 :-------------------------:|:-------------------------:
 ![](images/before_2.png)  |  ![](images/after_2.png)
+
+Before             |  After
+:-------------------------:|:-------------------------:
+![](images/before_4.png)  |  ![](images/after_4.png)
